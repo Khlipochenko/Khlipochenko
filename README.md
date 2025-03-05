@@ -1,56 +1,24 @@
 👋 Hi there, I'm Natalia!
-I'm a passionate Junior Developer currently advancing my skills in software development through a comprehensive program at the Digital Career Institute (DCI). I enjoy exploring new technologies and applying my knowledge to build creative and efficient solutions. My journey in tech is just getting started, and I'm excited to continue growing, learning, and contributing to meaningful projects.
+I'm a passionate Junior Full Stack Developer currently advancing my skills at the Digital Career Institute (DCI). I love solving problems, exploring new technologies, and building modern web applications. My journey in tech is just getting started, and I’m excited to keep growing, learning, and contributing to impactful projects.
 
 🌟 About Me
-🎓 I am currently enrolled in the Full Stack Developer program at DCI, focusing on both front-end and back-end technologies.
-💻 I’m enhancing my skills in JavaScript, React, HTML5, CSS3, and responsive design principles.
-🛠️ I'm working on building a personal portfolio and contributing to open-source projects to apply my learning in real-world scenarios.
-🚀 I love to experiment with new frameworks, tools, and methodologies to stay updated with industry trends.
-🌱 I’m eager to delve deeper into backend development and DevOps practices.
+🎓 I'm currently in the Full Stack Web Development program at DCI.
+💻 My core technologies: JavaScript, React, Node.js, Tailwind, CSS3, MongoDB, HTML5, and Sass.
+🛠️ I'm working on projects that strengthen my front-end and back-end development skills.
+🚀 I enjoy experimenting with new frameworks and tools to improve my workflow.
+🌱 I'm eager to deepen my knowledge in backend development and cloud technologies.
 🛠️ Tech Stack
-<h3 align="left">Languages and Tools:</h3> <p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="Sass" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/> </a> </p>
+<h3 align="left">Languages and Tools:</h3> <p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/> </a> <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="Sass" width="40" height="40"/> </a> </p>
 🔭 Projects
-Here are some of the projects I've worked on:
+Here’s one of my latest projects:
 
-Photo Gallery Project: A responsive photo gallery showcasing various images with interactive features.
-ToDo List: A simple and intuitive to-do list application to manage daily tasks.
-Portfolio: My personal portfolio website highlighting my projects and skills.
+Diary – A personal diary app that allows users to write and manage daily entries. Built with React, Node.js, MongoDB, and Tailwind CSS, this project demonstrates my skills in building full-stack applications and integrating backend databases.
 Feel free to check out more of my work in the repositories below!
 
 📫 How to Reach Me
 Email: khlipochenko@gmail.com
 LinkedIn: Natalia Panova
-I'm always open to collaborating on interesting projects or just chatting about tech, so don’t hesitate to reach out!
+I’m always open to collaborating on interesting projects or just chatting about tech, so don’t hesitate to reach out!
 
 💬 Let's Connect
-I’m here to learn, grow, and contribute. If you have any advice, resources, or would like to collaborate, I’m all ears! Let’s build something amazing together!
-
-Feel free to customize this template further to better reflect your personal style and experiences.
-
-
-Sources
-You said:
-nimm meine letze project als neispiel
-ChatGPT said:
-Here is an updated version of your GitHub README, incorporating your latest project:
-
-👋 Hi there, I'm Natalia!
-I'm a passionate Junior Developer currently advancing my skills in software development through a comprehensive program at the Digital Career Institute (DCI). I enjoy exploring new technologies and applying my knowledge to build creative and efficient solutions. My journey in tech is just getting started, and I'm excited to continue growing, learning, and contributing to meaningful projects.
-
-🌟 About Me
-🎓 I am currently enrolled in the Full Stack Developer program at DCI, focusing on both front-end and back-end technologies.
-💻 I’m enhancing my skills in JavaScript, React, HTML5, CSS3, and responsive design principles.
-🛠️ I'm working on building a personal portfolio and contributing to open-source projects to apply my learning in real-world scenarios.
-🚀 I love to experiment with new frameworks, tools, and methodologies to stay updated with industry trends.
-🌱 I’m eager to delve deeper into backend development and DevOps practices.
-🛠️ Tech Stack
-<h3 align="left">Languages and Tools:</h3> <p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="Sass" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/> </a> </p>
-
-
-📫 How to Reach Me
-Email: khlipochenko@gmail.com
-LinkedIn: Natalia Panova
-I'm always open to collaborating on interesting projects or just chatting about tech, so don’t hesitate to reach out!
-
-💬 Let's Connect
-I’m here to learn, grow, and contribute. If you have any advice, resources, or would like to collaborate, I’m all ears! Let’s build something amazing together!
+I’m here to learn, grow, and contribute. If you have any advice, resources, or would like to collaborate, I’m all ears! Let’s build something amazing together! 🚀
