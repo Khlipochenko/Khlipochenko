@@ -18,6 +18,7 @@ Feel free to check out more of my work in the repositories below!
 📫 How to Reach Me
 Email: khlipochenko@gmail.com
 LinkedIn: Natalia Panova
+
 I’m always open to collaborating on interesting projects or just chatting about tech, so don’t hesitate to reach out!
 
 💬 Let's Connect
